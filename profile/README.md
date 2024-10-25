@@ -6,6 +6,7 @@ The WinDirStat team maintains and develops WinDirStat, a disk usage statistics v
 >   * 📦 Install with `winget install -e --id WinDirStat.WinDirStat` (or use `winget upgrade` subsequently)
 >   * 📦 Alternatively install with `scoop install extras/windirstat` (requires `scoop bucket add extras`)
 > * 🔗 Our canonical website has been and remains https://windirstat.net (the alternative windirstat.info redirects there).
+>   * [discussions](https://github.com/windirstat/windirstat/discussions)
 >   * [blog](https://blog.windirstat.net/)
 >   * [subreddit r/WinDirStat/](https://www.reddit.com/r/WinDirStat/)
 > * ✏️ Feel free to raise issues or feature requests via [the issue tracker](https://github.com/windirstat/windirstat/issues/new/choose)
